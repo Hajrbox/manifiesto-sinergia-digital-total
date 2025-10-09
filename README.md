@@ -32,7 +32,7 @@ No porque funcione, sino porque llevó el arte del buzzword corporativo a su má
 
 ## 📖 Lee el Análisis Completo
 
-👉 **[Del speech a la Sinergia Digital Total™: Cuando las promesas se vuelven arte](TU_LINK_DE_MEDIUM_AQUÍ)**
+👉 **[Del speech a la Sinergia Digital Total™: Cuando las promesas se vuelven arte](https://medium.com/@oraculo.tech/del-speech-a-la-sinergia-digital-total-cuando-las-promesas-se-vuelven-arte-5f7d7bf46b49)**
 
 ---
 
